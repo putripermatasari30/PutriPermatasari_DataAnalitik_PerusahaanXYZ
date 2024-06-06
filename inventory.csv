@@ -1,0 +1,11 @@
+ItemID,ItemName,Category,Supplier,Quantity,ReorderLevel,UnitPrice
+1,Item A,Electronics,Supplier 1,100,50,500
+2,Item B,Furniture,Supplier 2,200,100,1500
+3,Item C,Clothing,Supplier 3,150,75,300
+4,Item D,Electronics,Supplier 4,80,40,600
+5,Item E,Furniture,Supplier 5,120,60,700
+6,Item F,Clothing,Supplier 6,90,45,400
+7,Item G,Electronics,Supplier 7,110,55,550
+8,Item H,Furniture,Supplier 8,130,65,800
+9,Item I,Clothing,Supplier 9,70,35,350
+10,Item J,Electronics,Supplier 10,95,50,650
